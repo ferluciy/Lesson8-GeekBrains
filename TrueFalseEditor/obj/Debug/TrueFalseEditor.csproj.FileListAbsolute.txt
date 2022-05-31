@@ -1,0 +1,23 @@
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.AssemblyReference.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.SuggestedBindingRedirects.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.AssemblyReference.cache
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.SuggestedBindingRedirects.cache
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb
+D:\Учеба Юнити\Проекты\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.About.resources

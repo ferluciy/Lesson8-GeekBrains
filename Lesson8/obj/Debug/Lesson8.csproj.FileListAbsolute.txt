@@ -1,0 +1,11 @@
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\bin\Debug\Lesson8.exe.config
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\bin\Debug\Lesson8.exe
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\bin\Debug\Lesson8.pdb
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\obj\Debug\Lesson8.csproj.AssemblyReference.cache
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\obj\Debug\Lesson8.csproj.SuggestedBindingRedirects.cache
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\obj\Debug\Lesson8.Form1.resources
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\obj\Debug\Lesson8.Properties.Resources.resources
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\obj\Debug\Lesson8.csproj.GenerateResource.cache
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\obj\Debug\Lesson8.csproj.CoreCompileInputs.cache
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\obj\Debug\Lesson8.exe
+D:\Учеба Юнити\Проекты\Lesson8\Lesson8\obj\Debug\Lesson8.pdb
