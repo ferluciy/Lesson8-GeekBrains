@@ -1,0 +1,11 @@
+D:\Учеба Юнити\Проекты\Lesson8\dz4\bin\Debug\dz4.exe.config
+D:\Учеба Юнити\Проекты\Lesson8\dz4\bin\Debug\dz4.exe
+D:\Учеба Юнити\Проекты\Lesson8\dz4\bin\Debug\dz4.pdb
+D:\Учеба Юнити\Проекты\Lesson8\dz4\obj\Debug\dz4.csproj.AssemblyReference.cache
+D:\Учеба Юнити\Проекты\Lesson8\dz4\obj\Debug\dz4.csproj.SuggestedBindingRedirects.cache
+D:\Учеба Юнити\Проекты\Lesson8\dz4\obj\Debug\dz4.Properties.Resources.resources
+D:\Учеба Юнити\Проекты\Lesson8\dz4\obj\Debug\dz4.csproj.GenerateResource.cache
+D:\Учеба Юнити\Проекты\Lesson8\dz4\obj\Debug\dz4.csproj.CoreCompileInputs.cache
+D:\Учеба Юнити\Проекты\Lesson8\dz4\obj\Debug\dz4.exe
+D:\Учеба Юнити\Проекты\Lesson8\dz4\obj\Debug\dz4.pdb
+D:\Учеба Юнити\Проекты\Lesson8\dz4\obj\Debug\dz4.Main.resources

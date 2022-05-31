@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <FirstName>Игорь</FirstName>
+    <LastName>Моисеев</LastName>
+    <datetime>1990-11-07T14:07:41</datetime>
+  </User>
+  <User>
+    <FirstName>Иван</FirstName>
+    <LastName>Петров</LastName>
+    <datetime>1908-05-31T14:15:43</datetime>
+  </User>
+  <User>
+    <FirstName>1</FirstName>
+    <LastName>1</LastName>
+    <datetime>2022-05-31T14:16:08.2017823+03:00</datetime>
+  </User>
+  <User>
+    <FirstName>-</FirstName>
+    <LastName>-</LastName>
+    <datetime>2022-05-31T14:16:08.8393961+03:00</datetime>
+  </User>
+  <User>
+    <FirstName>-</FirstName>
+    <LastName>-</LastName>
+    <datetime>2022-05-31T14:16:09.1236967+03:00</datetime>
+  </User>
+  <User>
+    <FirstName>-</FirstName>
+    <LastName>-</LastName>
+    <datetime>2022-05-31T14:16:09.5863948+03:00</datetime>
+  </User>
+</ArrayOfUser>
