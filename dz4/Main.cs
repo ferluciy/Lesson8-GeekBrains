@@ -45,9 +45,10 @@ namespace dz4
                 nudNumber.Maximum = 1;
                 nudNumber.Value = 1;
                 CheckProgram();
+                FileInfo fl = new FileInfo(dlg.FileName);
+                this.Text = NameProg + " | База \"" + fl.Name + "\"";
             }
-            FileInfo fl = new FileInfo(dlg.FileName);
-            this.Text = NameProg + " | База \"" + fl.Name + "\"";
+           
         }
 
         private void menuItemOpen_Click(object sender, EventArgs e)

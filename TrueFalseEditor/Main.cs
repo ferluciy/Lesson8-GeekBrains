@@ -55,9 +55,10 @@ namespace TrueFalseEditor
                     nudNumber.Value = 1;
                     num = 1;
                     CheckProgram();
+                FileInfo fl = new FileInfo(dlg.FileName);
+                this.Text = NameProg + " | База \"" + fl.Name + "\"";
             }
-            FileInfo fl = new FileInfo(dlg.FileName);
-            this.Text = NameProg + " | База \"" + fl.Name + "\"";
+            
 
         }
 
